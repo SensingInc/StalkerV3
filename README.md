@@ -7,3 +7,6 @@ The Stalker is an instrument for measuring stalk or stem strength in plants. Its
 and its data analysis (and theory of operation) is outlined in this Applied Sciences paper: https://www.mdpi.com/2076-3417/10/22/7965
 
 The bill of materials can be found here: https://docs.google.com/spreadsheets/d/1YpdJ8Psb1IhpG5ddTsx0BFufkG1ZGOrEwDEdpia4aTM/edit?usp=sharing
+
+## Contents
+This repository contains the firmware (Stalkerv3B.ino) and the schematic (MainBoard.sch) and board (MainBoard.brd) files to build and program the internals of the latest version of the Stalker.
